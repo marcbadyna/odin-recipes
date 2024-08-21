@@ -1,0 +1,28 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+.main-heading {
+    color: rgb(240, 128, 128);
+}
+
+li a:hover {
+    color: dimgrey;
+}
+
+.nav-list {
+    list-style: none;
+}
+
+.nav-list li {
+    float: left;
+}
+
+li a {
+    padding: 10px;
+}
+
+img {
+    height: auto;
+    width: 600px;
+}
