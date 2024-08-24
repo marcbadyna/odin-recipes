@@ -1,3 +1,7 @@
+* {
+    /* outline: 1px solid red; */
+}
+
 body {
     font-family: "Poppins", sans-serif;
     padding: 0;
@@ -12,15 +16,16 @@ body {
 .nav-list {
     list-style: none;
     padding: 0;
-    margin-left: 5px;
+    width: 600px;
+    margin: 0 auto;
 }
 
 .nav-list li {
-    display: inline;
+    display: inline-block;
     /* outline: solid; */
     width: 200px;
     height: auto;
-    margin-right: 25px;
+    margin-right: -4px;
 }
 
 a {
