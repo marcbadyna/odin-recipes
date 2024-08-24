@@ -1,27 +1,29 @@
 body {
     font-family: "Poppins", sans-serif;
+    padding: 0;
+    margin: 0;
 }
 
 .main-heading {
     color: rgb(240, 128, 128);
+    margin-left: 3px;
 }
 
 .nav-list {
     list-style: none;
-    padding: 0px;
-    margin: 0px;
+    padding: 0;
+    margin-left: 5px;
 }
 
 .nav-list li {
-    float: left;
-    margin: 5px;
-    border-radius: 2rem;
-    width: 180px;
+    display: inline;
+    /* outline: solid; */
+    width: 200px;
     height: auto;
+    margin-right: 25px;
 }
 
 a {
-    padding: 10px;
     text-decoration: none;
 }
 
