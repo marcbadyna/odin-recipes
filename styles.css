@@ -14,7 +14,8 @@ body {
 
 .nav-list li {
     float: left;
-    outline: thick double #32a1ce;
+    margin: 5px;
+    border-radius: 2rem;
     width: 180px;
     height: auto;
 }
@@ -22,6 +23,10 @@ body {
 a {
     padding: 10px;
     text-decoration: none;
+}
+
+a:visited {
+    color: blue;
 }
 
 a:hover {
