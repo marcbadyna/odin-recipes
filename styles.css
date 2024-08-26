@@ -37,7 +37,6 @@ img {
 .recipe {
     height: 150px;
     width: 200px;
-    border: 4px solid darkslategrey;
     border-radius: 15px;
     background-color: skyblue;
     position: relative;
