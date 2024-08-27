@@ -81,3 +81,7 @@ p {
     font-weight: bold;
     padding-left: 40px;
 }
+
+.img-pad {
+    margin-left: 20px;
+}
